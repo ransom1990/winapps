@@ -8,7 +8,7 @@ This repository contains the necessary dependencies for building NCPA on Windows
 2. If you are Cody, Ethan, or me, you'll know what to do.
 3. Cheers! 🍻
 
-**Note:** The Win32OpenSSL and VCForPython files are too large for GitHub and come split into multiple zip files.
+**Note:** The Win32OpenSSL and VCForPython files are too large for GitHub and come split into multiple files.
 
 ## Merging Split Files for VCForPython
 
