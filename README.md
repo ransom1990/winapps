@@ -11,7 +11,7 @@ This repository contains the necessary dependencies for building NCPA on Windows
 **Note:** The Win32OpenSSL and VCForPython files are too large for GitHub and come split into multiple files.
 
 ## Merging Split Files for VCForPython
-**Note:** Must be done in CMD not PowerShell!
+**Note:** Must be done in CMD not PowerShell! - cd into /winapps and run the following commands 
 
 To merge the split files for VCForPython, use the following command:
 ```bash
