@@ -27,4 +27,6 @@ To merge the split files for Win32OpenSSL-3_1_2, use the following command:
 
 ```bash
 copy /b Win32OpenSSL-3_1_2.msi.001 + Win32OpenSSL-3_1_2.msi.002 + Win32OpenSSL-3_1_2.msi.003 + Win32OpenSSL-3_1_2.msi.004 + Win32OpenSSL-3_1_2.msi.005 + Win32OpenSSL-3_1_2.msi.006 + Win32OpenSSL-3_1_2.msi.007 Win32OpenSSL-3_1_2.msi
+
+del Win32OpenSSL-3_1_2.msi.0*
 ```
