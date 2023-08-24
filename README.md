@@ -13,7 +13,7 @@ This repository contains the necessary dependencies for building NCPA on Windows
 ## Merging Split Files for VCForPython
 
 To merge the split files for VCForPython, use the following command:
-
+**Note:** Must be done in CMD not PowerShell!
 ```bash
 copy /b VCForPython27.msi.001 + VCForPython27.msi.002 + VCForPython27.msi.003 + VCForPython27.msi.004 + VCForPython27.msi.005 + VCForPython27.msi.006 + VCForPython27.msi.007 + VCForPython27.msi.008 + VCForPython27.msi.009 VCForPython27.msi
 ```
