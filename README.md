@@ -5,8 +5,9 @@ This repository contains the necessary dependencies for building NCPA on Windows
 ## Getting Started
 
 1. Navigate to the `windows` folder and clone this repository.
-2. If you are Cody, Ethan, or me, you'll know what to do.
-3. Cheers! 🍻
+2. clone
+3. this is where you start with a windows build, read the docs.
+4. Cheers! 🍻
 
 **Note:** The Win32OpenSSL and VCForPython files are too large for GitHub and come split into multiple files.
 
