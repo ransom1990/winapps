@@ -31,4 +31,5 @@ copy /b Win32OpenSSL-3_1_2.msi.001 + Win32OpenSSL-3_1_2.msi.002 + Win32OpenSSL-3
 
 del Win32OpenSSL-3_1_2.msi.0*
 ```
+install cx logging last!
 🗻🗾🍱
