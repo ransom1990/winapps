@@ -1,4 +1,4 @@
-# winapps - NCPA Windows Build Dependencies
+# winapps - NCPA 2.4.1 Windows Build Dependencies
 
 This repository contains the necessary dependencies for building NCPA on Windows.
 
